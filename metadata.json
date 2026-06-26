@@ -1,0 +1,6 @@
+{
+  "name": "Payap Star-Moon Photo Queue",
+  "description": "ระบบลงทะเบียนรับคิวถ่ายภาพ ผู้ประกวดดาว-เดือน มหาวิทยาลัยพายัพ พร้อมระบบบัตรคิวออนไลน์ด้วย QR Code",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
